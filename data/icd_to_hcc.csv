@@ -1,0 +1,6 @@
+icd10_code,hcc_code,hcc_desc,weight
+E11.9,HCC18,Diabetes,0.1
+I10,HCC85,Hypertension,0.05
+J45.909,HCC111,Asthma,0.07
+I25.10,HCC86,Ischemic heart disease,0.2
+E78.5,HCC19,Hyperlipidemia,0.03

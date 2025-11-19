@@ -1,0 +1,6 @@
+ndc_code,rxhcc_code,rxhcc_desc,weight
+0002-3232-01,RXHCC1,Statins,0.03
+0003-4567-02,RXHCC2,ACE inhibitors,0.025
+0012-3456-08,RXHCC3,Metformin,0.04
+0037-1111-10,RXHCC4,Beta agonists,0.02
+0045-2222-05,RXHCC5,Proton pump inhibitors,0.01
